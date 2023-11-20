@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\bin\Debug\sepet.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\bin\Debug\sepet.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\bin\Debug\sepet.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\sepet\sepet\obj\Debug\sepet.pdb
